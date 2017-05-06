@@ -1,6 +1,8 @@
 
 # ware
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/ware.svg)](https://greenkeeper.io/)
+
   Easily create your own middleware layer.
 
   [![Build Status](https://travis-ci.org/segmentio/ware.png?branch=master)](https://travis-ci.org/segmentio/ware)
